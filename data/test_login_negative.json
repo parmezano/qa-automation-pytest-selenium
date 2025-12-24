@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "user_login": "rahulshettyacademy",
+      "user_password": "wrong_password"
+    },
+    {
+      "user_login": "wrong_username",
+      "user_password": "learning"
+    },
+    {
+      "user_login": "wrong_username",
+      "user_password": "wrong_password"
+    }
+  ],
+  "empty_data": [
+    {
+      "user_login": "rahulshettyacademy",
+      "user_password": ""
+    },
+    {
+      "user_login": "",
+      "user_password": "learning"
+    },
+    {
+      "user_login": "",
+      "user_password": ""
+    }
+  ]
+}
